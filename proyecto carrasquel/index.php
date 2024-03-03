@@ -11,10 +11,10 @@
 	<?php include 'vista/menu.html'; ?>
 	<?php include 'vista/footer.html'; ?>
 	<script src="index.js"></script>
-	<?php include 'vista/php funciones/addtocart.php'; ?>
-	<?php include 'vista/php funciones/updatecart.php'; ?>
-	<?php include 'vista/php funciones/removefromcart.php'; ?>
-	<?php include 'vista/php funciones/updatecarttotal.php'; ?>
+	<?php include 'addtocart.php'; ?>
+	<?php include 'updatecart.php'; ?>
+	<?php include 'removefromcart.php'; ?>
+	<?php include 'updatecarttotal.php'; ?>
 
 
 </body>
