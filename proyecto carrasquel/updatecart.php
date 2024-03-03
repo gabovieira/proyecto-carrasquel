@@ -1,5 +1,6 @@
 <?php
-function updateCart() {
+function updateCart()
+{
   // Obtener el elemento del DOM que contiene el carrito
   $cartDOM = '<div class="cart">';
 
