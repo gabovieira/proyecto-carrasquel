@@ -20,9 +20,9 @@ function updateCart()
   // Cerrar el elemento del DOM que contiene el carrito
   $cartDOM .= '</div>';
 
-  // Actualizar el carrito en el DOM
+
   echo $cartDOM;
 
-  // Actualizar el total del carrito
+
   updateCartTotal();
 }
